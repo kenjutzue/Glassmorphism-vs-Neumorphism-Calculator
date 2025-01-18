@@ -1,3 +1,3 @@
-# Glassmorphism vs Neumorphism Calculator | CSS & JS(VanillaTilt)
+# Glassmorphism vs Neumorphism Calculator | CSS & JS (VanillaTilt)
 
 A calculator glassmorphism of using html, css , and javascript.....
